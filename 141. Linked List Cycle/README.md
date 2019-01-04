@@ -8,8 +8,8 @@ Example 1:
 
 ![example 1](example1.png)
 
-Input: head = [3,2,0,-4], pos = 1
-Output: true
+Input: head = [3,2,0,-4], pos = 1  
+Output: true  
 Explanation: There is a cycle in the linked list, where tail connects to the second node.
 
 
@@ -17,8 +17,8 @@ Example 2:
 
 ![example 2](example2.png)
 
-Input: head = [1,2], pos = 0
-Output: true
+Input: head = [1,2], pos = 0  
+Output: true  
 Explanation: There is a cycle in the linked list, where tail connects to the first node.
 
 
@@ -26,8 +26,8 @@ Example 3:
 
 ![example 3](example3.png)
 
-Input: head = [1], pos = -1
-Output: false
+Input: head = [1], pos = -1  
+Output: false  
 Explanation: There is no cycle in the linked list.
 
 
